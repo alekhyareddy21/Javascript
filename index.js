@@ -1,6 +1,33 @@
 //Day - 1//
 //syntax means rules//
 console.log(" welcome to alekhya");
+// DATA TYPES// THESE ARE PRIMITIVE DATA TYPES
+//1. Number
+//Used for any number (integer or decimal).
+let age = 20;
+let marks = 95.5;
+//2. String
+//Used for text.
+let name = "Alekhya";
+//3. Boolean
+//true / false values.
+let isStudent = true;
+//4. Undefined
+//Variable declared but no value given.
+let x;  
+// x is undefined
+//5. Null
+//Empty value (nothing).
+let data = null;
+//6. Object
+//Used to store multiple values in key–value pairs.
+let person = { name: "Alekhya", age: 20 };
+//7.Array (Type of Object)
+//Collection of items.
+let fruits = ["apple", "banana", "mango"];
+//8. BigInt
+//Used for very large numbers.
+let bigNumber = 1234567890123456789n;
 //varabiles//
 fullname = "Alekhya",
 console.log(fullname);
